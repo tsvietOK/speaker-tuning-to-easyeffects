@@ -5,3 +5,4 @@ localresearch/
 driver-cache/
 build/
 *.egg-info/
+output/**

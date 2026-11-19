@@ -1,7 +1,3 @@
-numpy
-scipy
-rich  # optional: colored output (see README "Install"); monochrome without it
-rich-argparse  # optional: colored --help (same); plain --help without it
-argcomplete  # optional: shell tab-completion (see docs/shell-completion.md)
+-r requirements-runtime.txt
 pytest
 pytest-xdist>=3.2  # pyproject's addopts passes -n auto --dist worksteal (3.2+)

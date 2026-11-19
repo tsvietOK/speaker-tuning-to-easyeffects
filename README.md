@@ -135,6 +135,9 @@ filter.
 
 ## Install
 
+To run the converters in Docker instead of installing Python dependencies on
+the host, see [Run in Docker](docs/docker.md).
+
 The script needs Python 3, [NumPy](https://numpy.org/), and
 [SciPy](https://scipy.org/).
 

@@ -22,6 +22,8 @@ In the order you're likely to need them:
   symptoms
 - [Shell tab-completion](shell-completion.md) — flag and value completion for
   all three scripts
+- [Run in Docker](docker.md) — build an image and generate output files
+  without installing Python dependencies on the host
 
 ## Technical reference
 
